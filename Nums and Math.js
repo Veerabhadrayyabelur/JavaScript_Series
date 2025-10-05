@@ -54,5 +54,5 @@
 // console.log(Math.min(1,2,3,4,5,1));
 
 
->>>>>>> 8b5bc57 (javascript series)
-console.log(Math.floor(Math.random()*10) +1);
+
+// console.log(Math.floor(Math.random()*10) +1);
