@@ -1,6 +1,5 @@
 // Date and Time in Javascript
 
-
 let d = new Date();
 // console.log(d);
 // console.log(d.toString());
@@ -12,6 +11,5 @@ let d = new Date();
 // let a = new Date(2023,0,5,5,4)
 // console.log(a.toLocaleString())
 
-
-let a = Date.now()
-console.log(a/1000);
+let a = Date.now();
+console.log(a / 1000);
