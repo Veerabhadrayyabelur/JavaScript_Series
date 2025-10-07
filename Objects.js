@@ -14,3 +14,11 @@ console.log(Veer["name"]);
 
 Veer.name = " saemy";
 console.log(Veer);
+
+
+
+
+
+
+
+
